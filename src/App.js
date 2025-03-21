@@ -8,7 +8,7 @@ import PrivateRoute from "./PrivateRoute";
 
 const App = () => (
   <Provider store={store}>
-    <Router>
+    <Router basename="/Financial_Dashboard">
       <Routes>
         <Route path="/" element={<Login />} />
         <Route

@@ -71,5 +71,7 @@ A simple financial dashboard built using **React**, **Redux**, **Redux Thunk**, 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## ✨ Contact
+- **Linkedin:** https://www.linkedin.com/in/govind-rajewar/
 - **GitHub:** https://github.com/Govindrajewar/
 - **Email:** abhirajewar87@gmail.com
+- **Phone:** +91 8766549929
